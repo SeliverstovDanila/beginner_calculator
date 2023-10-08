@@ -1,0 +1,9 @@
+.display_result {
+    font-size: 3rem;
+    margin: 0;
+    max-width: 288px;
+    position: relative;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}

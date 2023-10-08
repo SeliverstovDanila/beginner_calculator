@@ -1,0 +1,19 @@
+.button-menu__button {
+    padding: 0;
+    border: 0;
+    background: #333;
+    color: white;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    font-size: 1.5rem;
+}
+
+.button-menu__button:hover {
+    filter: brightness(120%);
+    cursor: pointer;
+}
+
+.button-menu__button:active {
+    filter: brightness(90%);
+}

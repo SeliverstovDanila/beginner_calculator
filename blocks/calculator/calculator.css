@@ -1,0 +1,11 @@
+.calculator {
+    width: 300px;
+    height: 500px;
+    background: #000;
+    color: #fff;
+    border-radius: 20px;
+    font-family: 'Inter', Arial, sans-serif;
+    padding: 18px;
+    box-shadow: 4px 4px 4px #4f4f4f;
+    margin: 50px auto;
+}
